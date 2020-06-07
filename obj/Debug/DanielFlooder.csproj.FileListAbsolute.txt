@@ -1,0 +1,7 @@
+C:\Users\Oscar\source\repos\DanielFlooder\DanielFlooder\bin\Debug\DanielFlooder.exe.config
+C:\Users\Oscar\source\repos\DanielFlooder\DanielFlooder\bin\Debug\DanielFlooder.exe
+C:\Users\Oscar\source\repos\DanielFlooder\DanielFlooder\bin\Debug\DanielFlooder.pdb
+C:\Users\Oscar\source\repos\DanielFlooder\DanielFlooder\obj\Debug\DanielFlooder.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\source\repos\DanielFlooder\DanielFlooder\obj\Debug\DanielFlooder.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\DanielFlooder\DanielFlooder\obj\Debug\DanielFlooder.exe
+C:\Users\Oscar\source\repos\DanielFlooder\DanielFlooder\obj\Debug\DanielFlooder.pdb
