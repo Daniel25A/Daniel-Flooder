@@ -37,13 +37,13 @@ namespace DanielFlooder
            
             for (int i = 0; i <Threds ; i++)
             {
-                Core.Procesos.Add(new Thread(()=>new Flooder(new Config() { IP = IP, Port = Port }).DoFlood()));
+                Core.Procesos.Add(new Thread(() => new Flooder(new Config() { IP = IP, Port = Port }).DoFlood()));
             }
             Console.ForegroundColor = ConsoleColor.DarkRed;
             foreach (var _process in Core.Procesos)
                 _process.Start();
        
-            Console.ReadKey();
+            Console.ReadKey(true);
         }
     }
 }
